@@ -5,6 +5,7 @@ export default defineConfig({
   title: " ",
   description: "",
   base: "/ai-family/",
+  outDir: './docs',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     // nav: [
