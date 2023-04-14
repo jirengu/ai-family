@@ -10,11 +10,4 @@
 1. poe.com
   - quora提供的类聊天网站，可选择GPT、Claude等
 
-![](/imgs/chatgpt.png)
-![](/imgs/midjourney.png)
-![](/imgs/stabilityai.png)
-![](/imgs/bard.svg)
-![](/imgs/ai.png)
-![](/imgs/github.png)
-![](/imgs/cursor.svg)
 
