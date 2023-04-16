@@ -132,4 +132,12 @@ features:
     details: Segment Anything（Meta）AI 提供了一个名为 Segment Anything Model（SAM）的工具，这是一个人工智能（AI）系统，能够在任何图像中剪切出任何对象
     link: https://segment-anything.com/
     linkText: 地址
+    
+  - icon: { src: "/imgs/codeium.svg"}
+    title: Codeium
+    details: A Free AI-Powered Toolkit for Developers.
+    link: https://codeium.com/
+    linkText: 地址
+
+ 
 ---
