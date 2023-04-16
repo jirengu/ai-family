@@ -133,6 +133,12 @@ features:
     link: https://techday.sensetime.com/list
     linkText: 地址
 
+  - icon: { src: "/imgs/codeium.svg"}
+    title: Codeium
+    details: A Free AI-Powered Toolkit for Developers.
+    link: https://codeium.com/
+    linkText: 地址
+
   
 
 ---
